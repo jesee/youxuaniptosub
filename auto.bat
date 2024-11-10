@@ -1,7 +1,7 @@
 @echo off
 
 REM Step 1: 运行cftest命令
-.\cftest.exe -f ip.txt -n 800 -dn 10 -tl 300 -sl 10 -url https://urltest.flight.us.kg/
+.\cftest.exe -f ip.txt -n 1000 -dn 10 -tl 300 -sl 6 -url https://urltest.flight.us.kg/
 
 REM Step 2: 运行git命令
 git add .
