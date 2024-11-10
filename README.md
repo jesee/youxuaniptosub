@@ -1,9 +1,10 @@
 # 1. 原理
-- 运用 `cftest.exe` 脚本跑 IP 延迟测试和网速，之后会生成 `result.txt` 和 `result.csv` 并自动提交到 Git 仓库。
-- 在 Git 仓库中复制 `result.txt` 的下载链接，可以直接当作订阅链接使用，适用于 v2ray、clash、karing 等软件直接导入。
+- 运用 `cftest.exe` 脚本跑 cloudflare官方优选IP 延迟测试和网速，之后会生成 `result.txt` 和 `result.csv` ，csv是测速结果文件，txt是优选ip订阅节点文件
+- 如果运行auto.bat脚本，生成之后会自动提交到 Git 仓库
+- 在 Git 仓库中复制 `result.txt` 的下载链接，可直接当作订阅链接使用，适用于 v2ray、clash、karing 等软件直接导入。
 - **注意**：生成的节点不能用 tun 模式运行，实测在此模式下速度较慢或超时，只能使用系统代理运行。
 
-# 2. 使用
+# 2. 操作步骤
 ## 2.1 打上 star 并 fork 当前项目
 
 ## 2.2 本地使用
