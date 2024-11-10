@@ -9,3 +9,8 @@ REM Step 3: 运行git命令
 git add .
 git commit -m "%date% %time%"
 git push
+
+REM 等待用户按下任意键
+echo.
+echo 按下任意键继续，或按 Ctrl+C 退出...
+pause >nul
