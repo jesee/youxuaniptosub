@@ -10,5 +10,5 @@ git push
 
 REM 等待用户按下任意键
 echo.
-echo 按下任意键继续，或按 Ctrl+C 退出...
+echo press any key to continue, or press Ctrl+C to exit ...
 pause >nul
