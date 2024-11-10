@@ -14,5 +14,5 @@
 ## 2.3 生成订阅链接
 - fork 项目之后，将其 git clone 到本地。
 - 运行根目录下的 `auto.bat`，结果会自动推送到代码仓库。
-- 在 Git 仓库中找到 `result.txt`文件点进去，然后点击raw按钮，复制url链接（如：https://raw.githubusercontent.com/xxx/main/result.txt）
+- 在 Git 仓库中找到 `result.txt`文件点进去，然后点击raw按钮，复制url链接（如：https://raw.githubusercontent.com/xxx/main/result.txt ）
 - 在代理软件中导入订阅链接即可。
