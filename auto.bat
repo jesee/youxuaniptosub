@@ -16,7 +16,7 @@ echo .
 echo please turn off your vpn software
 echo .
 
-.\cftest.exe -f ip.txt -n 800 -dn 10 -tl 350
+.\cftest.exe -f ip.txt -n 800 -dn 10 -tl 350 -sl 3
 
 if not exist "result.txt" (
     echo error : result.txt file is not exist
