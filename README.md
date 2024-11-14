@@ -8,3 +8,5 @@
 - 下载 zip 压缩包到本地并解压，或使用git clone到本地
 - 直接双击运行根目录下的 auto.bat，运行完成后会得到一个订阅链接，然后将其导入到代理软件即可。
 - 另外也可以将本地生成的result.txt文件导入机场软件也可以
+
+备注：测速模块用的是XIU2/CloudflareSpeedTest
