@@ -6,6 +6,6 @@
 
 *本项目仅限在windows系统运行
 
-windows app版本已上线-->https://github.com/jesee/cfvpn
+app版本已上线-->https://github.com/jesee/cfvpn
 
 备注：本项目仅用于学习和娱乐
